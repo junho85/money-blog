@@ -2,9 +2,8 @@ title: 이코노준
 tagline: 준호씨의 경제노트
 description: 개발자 김준호가 생활비를 줄이면서 직접 확인한 것들. 알뜰폰, 통신비, 공모주.
 
-# 공개 주소. 지금은 GitHub Pages 기본 주소(world.junho85.pe.kr/money-blog/)를 쓴다.
-# baseurl 은 배포 워크플로가 /money-blog 로 넣는다. 서브도메인을 정하면 CNAME 파일과 함께 바꾼다
-url: "https://world.junho85.pe.kr"
+# 공개 주소. CNAME 파일과 짝이다. 가비아 DNS에서 money CNAME → junho85.github.io (2026-10-25)
+url: "https://money.junho85.pe.kr"
 baseurl: ""
 
 author:
