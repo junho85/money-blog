@@ -1,0 +1,13 @@
+---
+---
+
+/* 광고가 채워지지 않았을 때 빈 여백이 남지 않게 한다 */
+ins.adsbygoogle[data-ad-status="unfilled"] {
+  display: none !important;
+}
+
+ins.adsbygoogle {
+  display: block;
+  height: auto !important;
+  min-height: 0 !important;
+}
